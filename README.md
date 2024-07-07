@@ -17,7 +17,7 @@
 
 ## Wireframes
 
-![Landing/Search]("./src/assets/src/assets/87DEEB20-C243-478C-9A54-673700CD4560.jpeg)
+![Landing/Search](https://i.imgur.com/u4pneI1.jpeg)
 
 ![Index Page]()
 
