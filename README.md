@@ -17,10 +17,14 @@
 
 ## Wireframes
 
+# Landing/Search:
+
 ![Landing/Search](https://i.imgur.com/u4pneI1.jpeg)
 
-![Index Page]()
+# Index Pages (Major Arcana, Wands, Cups, Swords, Pentacles)
 
-![Show Page]()
+![Index Pages](https://i.imgur.com/8Gb6dYN.png)
 
-## Color scheme
+# Show
+
+![Show Page](https://i.imgur.com/fBcbCYX.jpeg)
